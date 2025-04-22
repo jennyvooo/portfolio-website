@@ -1,12 +1,25 @@
-# React + Vite
+# Jenny Vo - Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React and Tailwind CSS. It showcases my skills, projects, and contact information in a clean, responsive design. This site was built as a final project for my DIG4639c course at UCF.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[🔗 View the live portfolio here](https://your-netlify-or-vercel-link.com)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design for desktop, tablet, and mobile
+- Navigation between Home, About, Projects, and Contact pages
+- Form validation on the contact page
+- Smooth animations using Framer Motion
+- Project cards with screenshots, descriptions, and links
+- Background image on the home page
+- Built using React, Tailwind CSS, and Vite
+
+## 🛠️ Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [React Router](https://reactrouter.com/)
